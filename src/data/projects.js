@@ -3,6 +3,17 @@
 const projects = [
   {
     id: 1,
+    title: "MediCare Pro - Hospital Management System",
+    status: "Full Stack",
+    category: "Full Stack",
+    description: "A modern, enterprise-grade hospital management platform built with ASP.NET Core 9 and React 19. Features patient management, appointment scheduling, medical records, pharmacy, laboratory, billing, and real-time analytics with JWT authentication and role-based access control.",
+    technologies: ["ASP.NET Core 9", "C#", "React 19", "MySQL", "EF Core", "JWT", "Chart.js", "Bootstrap"],
+    github: "https://github.com/mxolisi78/medicare-pro",
+    liveDemo: null,
+    image: null
+  },
+  {
+    id: 2,
     title: "Smart Face Attendance System",
     status: "In Development",
     category: "Python",
@@ -13,7 +24,7 @@ const projects = [
     image: null
   },
   {
-    id: 2,
+    id: 3,
     title: "Payroll Management System",
     status: "Completed",
     category: "Python",
@@ -24,7 +35,7 @@ const projects = [
     image: null
   },
   {
-    id: 3,
+    id: 4,
     title: "ShopSphere",
     status: "Full Stack",
     category: "Full Stack",
@@ -35,7 +46,7 @@ const projects = [
     image: null
   },
   {
-    id: 4,
+    id: 5,
     title: "CCAMS",
     status: "Java Application",
     category: "Java",
@@ -46,7 +57,7 @@ const projects = [
     image: null
   },
   {
-    id: 5,
+    id: 6,
     title: "Banking Management System",
     status: "Completed",
     category: "Java",
@@ -57,7 +68,7 @@ const projects = [
     image: null
   },
   {
-    id: 6,
+    id: 7,
     title: "South Africa Employment Analysis",
     status: "Data Analysis",
     category: "Data Analysis",
@@ -68,7 +79,7 @@ const projects = [
     image: null
   },
   {
-    id: 7,
+    id: 8,
     title: "Task Management System",
     status: "Web Application",
     category: "Full Stack",
@@ -79,7 +90,7 @@ const projects = [
     image: null
   },
   {
-    id: 8,
+    id: 9,
     title: "Student Management System",
     status: "Web Application",
     category: "Java",
@@ -90,7 +101,7 @@ const projects = [
     image: null
   },
   {
-    id: 9,
+    id: 10,
     title: "Tracker Services",
     status: "Web Application",
     category: "Full Stack",
@@ -101,7 +112,7 @@ const projects = [
     image: null
   },
   {
-    id: 10,
+    id: 11,
     title: "Gert Sibande Municipality System",
     status: "Web Application",
     category: "Full Stack",
