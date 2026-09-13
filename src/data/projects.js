@@ -14,6 +14,17 @@ const projects = [
   },
   {
     id: 2,
+    title: "Taste Haven RMS - Restaurant Management System",
+    status: "Java Application",
+    category: "Java",
+    description: "A complete restaurant management system with 4 user roles (Manager, Waiter, Chef, Customer), 20+ screens, and 12 database tables. Features secure multi-role login, order management, kitchen display, inventory tracking, sales reports, analytics, and customer self-service ordering.",
+    technologies: ["Java", "Swing", "NetBeans", "MySQL", "JDBC", "XAMPP"],
+    github: "https://github.com/mxolisi78/TasteHavenRMS",
+    liveDemo: null,
+    image: null
+  },
+  {
+    id: 3,
     title: "Smart Face Attendance System",
     status: "In Development",
     category: "Python",
@@ -24,7 +35,7 @@ const projects = [
     image: null
   },
   {
-    id: 3,
+    id: 4,
     title: "Payroll Management System",
     status: "Completed",
     category: "Python",
@@ -35,7 +46,7 @@ const projects = [
     image: null
   },
   {
-    id: 4,
+    id: 5,
     title: "ShopSphere",
     status: "Full Stack",
     category: "Full Stack",
@@ -46,7 +57,7 @@ const projects = [
     image: null
   },
   {
-    id: 5,
+    id: 6,
     title: "CCAMS",
     status: "Java Application",
     category: "Java",
@@ -57,7 +68,7 @@ const projects = [
     image: null
   },
   {
-    id: 6,
+    id: 7,
     title: "Banking Management System",
     status: "Completed",
     category: "Java",
@@ -68,7 +79,7 @@ const projects = [
     image: null
   },
   {
-    id: 7,
+    id: 8,
     title: "South Africa Employment Analysis",
     status: "Data Analysis",
     category: "Data Analysis",
@@ -79,7 +90,7 @@ const projects = [
     image: null
   },
   {
-    id: 8,
+    id: 9,
     title: "Task Management System",
     status: "Web Application",
     category: "Full Stack",
@@ -90,7 +101,7 @@ const projects = [
     image: null
   },
   {
-    id: 9,
+    id: 10,
     title: "Student Management System",
     status: "Web Application",
     category: "Java",
@@ -101,7 +112,7 @@ const projects = [
     image: null
   },
   {
-    id: 10,
+    id: 11,
     title: "Tracker Services",
     status: "Web Application",
     category: "Full Stack",
@@ -112,7 +123,7 @@ const projects = [
     image: null
   },
   {
-    id: 11,
+    id: 12,
     title: "Gert Sibande Municipality System",
     status: "Web Application",
     category: "Full Stack",
