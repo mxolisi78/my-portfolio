@@ -1,77 +1,229 @@
-# Mxolisi Maseko | ICT Applications Developer Portfolio
+<div align="center">
 
-![Portfolio Screenshot](public/images/portfolio-screenshot.png)
+# Mxolisi Maseko
 
-## 🌐 Live Demo
+### ICT Applications Developer
 
-**[View Live Portfolio →](https://mxolisi-maseko-portfolio.netlify.app)**
+**Software Development • Full-Stack Development • Databases • Data Analysis**
 
----
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-View_Now-38bdf8?style=for-the-badge)](https://mxolisi-maseko-portfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-mxolisi78-181717?style=for-the-badge&logo=github)](https://github.com/mxolisi78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mxolisi-maseko)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ismailmxolisi78@gmail.com)
 
-## 📋 About
-
-This is my professional portfolio website showcasing my work as an **ICT Applications Developer**. It highlights my skills, projects, and experience in software development, full-stack web development, database systems, and data analysis.
-
-The portfolio features a modern, responsive design with a dark theme, smooth animations, and project filtering capabilities to help recruiters and employers quickly find relevant information.
-
----
-
-## 🚀 Technologies Used
-
-### Frontend
-- **React 18** - UI Library
-- **Vite** - Build Tool
-- **CSS3** - Styling
-- **AOS** - Scroll Animations
-
-### Hosting
-- **Netlify** - Deployment & Hosting
-
-### Development Tools
-- **Git** - Version Control
-- **GitHub** - Repository Management
-- **VS Code** - IDE
+</div>
 
 ---
 
-## ✨ Features
+## 📖 About This Portfolio
+
+A modern, responsive portfolio website built with **React** and **Vite**, designed to showcase my work as an ICT Applications Developer. It features a professional dark theme, smooth scroll animations, project filtering, and industry-recognized certifications — built to give recruiters and employers instant access to my skills, projects, and credentials.
+
+> **Live Site:** [mxolisi-maseko-portfolio.netlify.app](https://mxolisi-maseko-portfolio.netlify.app)
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](public/images/portfolio-screenshot.png)
+
+---
+
+## ✨ Key Features
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎨 Design & UX
 - Professional dark theme with cyan accents
-- Fully responsive across all devices
-- Smooth scroll animations
+- Fully responsive (mobile, tablet, desktop)
+- Smooth AOS scroll animations
 - Interactive project filtering
-- Clean and intuitive navigation
+- Clean, intuitive navigation
+
+</td>
+<td width="50%">
 
 ### 📂 Project Showcase
-- **10 Featured Projects** with GitHub links
-- **Filter by Category**: All, Python, Java, Full Stack, Data Analysis
-- Each project displays:
-  - Project title and status
-  - Description
-  - Technologies used
-  - Direct GitHub repository link
+- **12 featured projects** with GitHub links
+- **Filter by:** All, Python, Java, Full Stack, Data Analysis
+- Project status badges
+- Technology tags per project
 
-### 🛠️ Skills Section
-Organized into 6 categories:
-- Programming Languages
-- Web Development
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 Education & Certifications
+- Diploma in ICT Applications Development
+- **IBM Skills Network** certified:
+  - SQL & Relational Databases 101
+  - Python 101 for Data Science
+- Verifiable credential links
+
+</td>
+<td width="50%">
+
+### 🔍 SEO & Performance
+- Semantic HTML5 structure
+- Open Graph & Twitter Card meta tags
+- Fast Vite build (~164ms)
+- Netlify CDN deployment
+- PWA-ready with favicon support
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-Animations-38bdf8?style=flat-square)
+
+### Hosting & Tools
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<table>
+<thead>
+<tr>
+<th align="center">#</th>
+<th>Project</th>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">01</td>
+<td><strong>🏥 MediCare Pro</strong><br><sub>Hospital Management System</sub></td>
+<td>Full Stack</td>
+<td><code>ASP.NET Core 9</code> <code>React 19</code> <code>MySQL</code> <code>JWT</code></td>
+</tr>
+<tr>
+<td align="center">02</td>
+<td><strong>🍽️ Taste Haven RMS</strong><br><sub>Restaurant Management System</sub></td>
+<td>Java</td>
+<td><code>Java Swing</code> <code>MySQL</code> <code>JDBC</code></td>
+</tr>
+<tr>
+<td align="center">03</td>
+<td><strong>🎭 Smart Face Attendance</strong><br><sub>Face Recognition Attendance</sub></td>
+<td>Python</td>
+<td><code>Django</code> <code>OpenCV</code> <code>SQLite</code></td>
+</tr>
+<tr>
+<td align="center">04</td>
+<td><strong>💼 Payroll Management</strong><br><sub>Employee Payroll Platform</sub></td>
+<td>Python</td>
+<td><code>Django</code> <code>SQLite</code> <code>HTML/CSS</code></td>
+</tr>
+<tr>
+<td align="center">05</td>
+<td><strong>🛒 ShopSphere</strong><br><sub>E-Commerce Platform</sub></td>
+<td>Full Stack</td>
+<td><code>ASP.NET Core</code> <code>React</code> <code>SQL Server</code></td>
+</tr>
+<tr>
+<td align="center">06</td>
+<td><strong>🎓 CCAMS</strong><br><sub>Campus Management System</sub></td>
+<td>Java</td>
+<td><code>Java</code> <code>NetBeans</code> <code>MySQL</code></td>
+</tr>
+<tr>
+<td align="center">07</td>
+<td><strong>🏦 Banking Management</strong><br><sub>Banking System</sub></td>
+<td>Java</td>
+<td><code>Java</code> <code>MySQL</code> <code>JDBC</code></td>
+</tr>
+<tr>
+<td align="center">08</td>
+<td><strong>📊 SA Employment Analysis</strong><br><sub>Data Analysis Project</sub></td>
+<td>Data Analysis</td>
+<td><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code></td>
+</tr>
+<tr>
+<td align="center">09</td>
+<td><strong>✅ Task Management System</strong><br><sub>Task Tracker</sub></td>
+<td>Full Stack</td>
+<td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td><strong>👨‍🎓 Student Management</strong><br><sub>Student Records System</sub></td>
+<td>Java</td>
+<td><code>Java</code> <code>MySQL</code> <code>JDBC</code></td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td><strong>📡 Tracker Services</strong><br><sub>Service Tracking System</sub></td>
+<td>Full Stack</td>
+<td><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td><strong>🏛️ Gert Sibande Municipality</strong><br><sub>Municipal Services System</sub></td>
+<td>Full Stack</td>
+<td><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+**Diploma in ICT Applications Development**  
+*Sol Plaatje University*
+
+Focus areas:
+- Software Development
 - Databases
-- Data & Analytics
-- Development Tools
-- Computer Vision
+- Data Analysis
+- Web Development
+- Information Systems
+- Application Development
 
-### 📄 Professional Content
-- About Me section with introduction
-- Education details (Diploma in ICT Applications Development)
-- CV download functionality
-- Contact section with email and social links
+</td>
+<td width="50%" valign="top">
 
-### 🔍 SEO Optimized
-- Meta tags for description, keywords, and author
-- Open Graph tags for social media sharing
-- Twitter Card tags for better sharing previews
-- Favicon and PWA support
+### 📜 Certifications
+
+**SQL and Relational Databases 101**  
+*IBM Skills Network* — 2026  
+[Verify Certificate →](https://courses.cognitiveclass.ai/certificates/622aeea527c84fa1bf57cf19149f5227)
+
+**Python 101 for Data Science**  
+*IBM Skills Network* — 2026  
+[Verify Certificate →](https://courses.cognitiveclass.ai/certificates/21b0b8cac2394b1784b34fac392c169)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -98,6 +250,7 @@ my-portfolio/
 │ │ ├── Projects.jsx
 │ │ ├── ProjectCard.jsx
 │ │ ├── Education.jsx
+│ │ ├── Certifications.jsx
 │ │ ├── Contact.jsx
 │ │ └── Footer.jsx
 │ │
@@ -111,7 +264,6 @@ my-portfolio/
 │
 ├── index.html
 ├── package.json
-├── package-lock.json
 ├── vite.config.js
 ├── netlify.toml
 └── README.md
@@ -120,115 +272,166 @@ text
 
 ---
 
-## 📦 Installation & Setup
+## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js (v18 or higher)
-- npm (v9 or higher)
+- **Node.js** v18 or higher — [Download](https://nodejs.org/)
+- **npm** v9 or higher
+- **Git** — [Download](https://git-scm.com/)
 
-### Clone the Repository
+### Installation
+
 ```bash
+# 1. Clone the repository
 git clone https://github.com/mxolisi78/my-portfolio.git
 cd my-portfolio
-Install Dependencies
-bash
+
+# 2. Install dependencies
 npm install
-Run Development Server
-bash
+
+# 3. Start development server
 npm run dev
-Build for Production
-bash
+
+# 4. Build for production
 npm run build
-Preview Production Build
-bash
+
+# 5. Preview production build
 npm run preview
-🚀 Deployment
-This project is configured for easy deployment on Netlify.
+The development server will run at http://localhost:5173/my-portfolio/
 
-Deploy on Netlify
-Push code to GitHub
+🌐 Deployment
+This project is deployed on Netlify with automatic deployments from main.
 
-Connect repository to Netlify
+Deploy to Netlify
+Fork or clone this repository
+
+Log into Netlify
+
+Click "Add new site" → "Import from Git"
+
+Connect your GitHub repository
 
 Configure build settings:
 
-Build Command: npm run build
+Build command: npm run build
 
-Publish Directory: dist
+Publish directory: dist
 
-Deploy automatically on push
+Click "Deploy site"
 
-Deploy on Vercel
-Push code to GitHub
-
+Deploy to Vercel
 Import project on Vercel
 
 Framework Preset: Vite
 
-Deploy
+Click "Deploy"
 
-📊 Projects Included
-#	Project	Category	Technologies
-1	Smart Face Attendance System	Python	Django, Python, OpenCV, SQLite
-2	Payroll Management System	Python	Django, Python, SQLite, HTML, CSS
-3	ShopSphere	Full Stack	ASP.NET Core, C#, React, SQL Server, JWT
-4	CCAMS	Java	Java, NetBeans, MySQL, JDBC
-5	Banking Management System	Java	Java, MySQL, JDBC, NetBeans
-6	South Africa Employment Analysis	Data Analysis	Python, Pandas, NumPy, Matplotlib, Excel
-7	Task Management System	Full Stack	JavaScript, React, Node.js, MongoDB
-8	Student Management System	Java	Java, MySQL, JDBC, NetBeans
-9	Tracker Services	Full Stack	JavaScript, React, Node.js, PostgreSQL
-10	Gert Sibande Municipality	Full Stack	JavaScript, React, Node.js, PostgreSQL
 📱 Responsive Design
-The portfolio is fully responsive and optimized for:
+Device	Resolution	Status
+🖥️ Desktop	1920×1080	✅
+💻 Laptop	1366×768	✅
+📱 Tablet	768×1024	✅
+📱 Mobile	375×812	✅
+📊 Project Statistics
+<div align="center">
+https://img.shields.io/github/repo-size/mxolisi78/my-portfolio?style=for-the-badge
+https://img.shields.io/github/last-commit/mxolisi78/my-portfolio?style=for-the-badge
+https://img.shields.io/github/stars/mxolisi78/my-portfolio?style=for-the-badge
+https://img.shields.io/github/license/mxolisi78/my-portfolio?style=for-the-badge
 
-Desktop (1920×1080)
+</div>
+🤝 Connect With Me
+<div align="center">
+https://img.shields.io/badge/Portfolio-mxolisi--maseko--portfolio.netlify.app-38bdf8?style=for-the-badge&logo=netlify&logoColor=white
+https://img.shields.io/badge/GitHub-mxolisi78-181717?style=for-the-badge&logo=github
+https://img.shields.io/badge/LinkedIn-mxolisi--maseko-0A66C2?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/Email-ismailmxolisi78@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 
-Tablet (768×1024)
+</div>
+🙏 Acknowledgments
+Sol Plaatje University — ICT Applications Development Program
 
-Mobile (375×812)
+IBM Skills Network — Professional Certifications
 
-🔗 Connect With Me
-Portfolio: mxolisi-maseko-portfolio.netlify.app
+React & Vite — Excellent development tooling
 
-GitHub: github.com/mxolisi78
-
-Email: ismailmxolisi78@gmail.com
-
-LinkedIn: linkedin.com/in/mxolisi-maseko
+Netlify — Free hosting and continuous deployment
 
 📝 License
-This project is open source and available under the MIT License.
+This project is licensed under the MIT License — see the LICENSE file for details.
 
-🙏 Acknowledgments
-Sol Plaatje University - ICT Applications Development Program
-
-React & Vite - For excellent development tools
-
-Netlify - For free hosting and deployment
-
-📬 Contact
-For any inquiries or collaboration opportunities, feel free to reach out:
-
-Email: ismailmxolisi78@gmail.com
-
-GitHub: mxolisi78
-
-⭐ Show Your Support
-If you found this portfolio helpful or inspiring, please give it a ⭐ on GitHub!
-
+<div align="center">
+⭐ If you found this portfolio helpful or inspiring, please give it a star!
 Built with ❤️ by Mxolisi Maseko
 
-📊 Quick Stats
-https://img.shields.io/github/repo-size/mxolisi78/my-portfolio
-https://img.shields.io/github/last-commit/mxolisi78/my-portfolio
-https://img.shields.io/github/license/mxolisi78/my-portfolio
-https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status
+ICT Applications Developer • South Africa
+
+</div> ```
+🎯 What Makes This Professional
+Element	Improvement
+Centered header	Name, title, and badges at the top with <div align="center">
+Badge system	Shields.io badges for Live, GitHub, LinkedIn, Email
+Status badges	Dynamic repo size, last commit, stars, license
+Preview image	Visual screenshot at the top
+HTML tables	Clean, structured project list with categories
+Education + Certs side by side	Two-column layout for credentials
+Technology badges	Visual tech stack with icons
+Responsive table	Shows mobile/tablet/desktop support
+Connect section	Visual badges for all contact channels
+Proper license	MIT License with link
+Call to action	Star request at the bottom
+🚀 Push the Update
+bash
+# Add the updated README
+git add README.md
+
+# Commit
+git commit -m "Polish README with professional formatting, badges, and HTML tables
+
+- Added centered header with contact badges
+- Added technology stack badges
+- Converted project list to HTML table
+- Added Education & Certifications two-column layout
+- Added responsive design table
+- Added project statistics badges
+- Improved overall visual structure"
+
+# Push to GitHub
+git push origin main
+📌 Before Pushing — Do These 2 Things
+1. Add a Portfolio Screenshot
+Take a screenshot of your live portfolio and save it as:
 
 text
+public/images/portfolio-screenshot.png
+Then commit it:
 
----
+bash
+git add public/images/portfolio-screenshot.png
+git commit -m "Add portfolio screenshot for README"
+git push origin main
+2. Create a LICENSE File (Optional)
+Create LICENSE in your project root:
 
+text
+MIT License
 
+Copyright (c) 2026 Mxolisi Maseko
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
