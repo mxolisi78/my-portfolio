@@ -23,14 +23,23 @@ const About = () => {
             <p>
               I enjoy turning real-world problems into practical
               software solutions. Through academic work and personal
-              projects, I have gained hands-on experience developing
-              applications using Java, Python, Django, React, C#,
-              ASP.NET Core, and SQL.
+              projects, I have gained hands-on experience building
+              enterprise-style systems using Java, Python, Django,
+              React, C#, ASP.NET Core, and SQL.
+            </p>
+            <p>
+              My portfolio includes large-scale projects such as a
+              <strong> Hospital Management System</strong> built with
+              ASP.NET Core and React, and a
+              <strong> Restaurant Management System</strong> built in
+              Java Swing with MySQL — both featuring multi-role
+              authentication, full CRUD operations, and real-time
+              dashboards.
             </p>
             <p>
               I am particularly interested in full-stack development,
               database-driven applications, automation, and building
-              systems that are useful, reliable, and easy to use.
+              systems that are reliable, scalable, and easy to use.
             </p>
 
             <div className="about-buttons">
@@ -49,7 +58,7 @@ const About = () => {
               <div className="highlight-icon">💻</div>
               <div>
                 <h3>Software Development</h3>
-                <p>Building practical desktop and web applications using modern programming technologies.</p>
+                <p>Building practical desktop and web applications using Java, C#, Python, and modern frameworks.</p>
               </div>
             </div>
 
@@ -73,7 +82,7 @@ const About = () => {
               <div className="highlight-icon">🗄️</div>
               <div>
                 <h3>Database Systems</h3>
-                <p>Designing and working with relational databases including MySQL and SQL Server.</p>
+                <p>Designing and working with relational databases including MySQL, SQL Server, and SQLite.</p>
               </div>
             </div>
           </div>
