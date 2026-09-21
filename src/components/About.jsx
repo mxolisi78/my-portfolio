@@ -20,6 +20,7 @@ const About = () => {
               interest in software development, web applications,
               databases, and data analysis.
             </p>
+
             <p>
               I enjoy turning real-world problems into practical
               software solutions. Through academic work and personal
@@ -27,17 +28,19 @@ const About = () => {
               applications using Java, Python, Django, React, C#,
               ASP.NET Core, and SQL.
             </p>
+
             <p>
-  My portfolio includes large-scale projects such as a
-  <strong> Real-Time Social Platform</strong> built with Django
-  Channels and WebSockets, a
-  <strong> Hospital Management System</strong> built with
-  ASP.NET Core and React, and a
-  <strong> Restaurant Management System</strong> built in
-  Java Swing with MySQL — all featuring multi-role
-  authentication, full CRUD operations, and real-time
-  dashboards.
-</p>
+              My portfolio includes large-scale projects such as a
+              <strong> Real-Time Social Platform</strong> built with
+              Django Channels and WebSockets, a
+              <strong> Hospital Management System</strong> built with
+              ASP.NET Core and React, and a
+              <strong> Restaurant Management System</strong> built in
+              Java Swing with MySQL — all featuring multi-role
+              authentication, full CRUD operations, and real-time
+              dashboards.
+            </p>
+
             <p>
               I am particularly interested in full-stack development,
               database-driven applications, automation, and building
@@ -84,7 +87,7 @@ const About = () => {
               <div className="highlight-icon">🗄️</div>
               <div>
                 <h3>Database Systems</h3>
-                <p>Designing and working with relational databases including MySQL and SQL Server.</p>
+                <p>Designing and working with relational databases including MySQL, PostgreSQL, and SQL Server.</p>
               </div>
             </div>
           </div>
