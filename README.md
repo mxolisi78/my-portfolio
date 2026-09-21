@@ -114,72 +114,78 @@ A modern, responsive portfolio website built with **React** and **Vite**, design
 <tbody>
 <tr>
 <td align="center">01</td>
+<td><strong>💬 NexaChat</strong><br><sub>Real-Time Social Platform</sub></td>
+<td>Full Stack</td>
+<td><code>Django 6</code> <code>Channels</code> <code>WebSockets</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></td>
+</tr>
+<tr>
+<td align="center">02</td>
 <td><strong>🏥 MediCare Pro</strong><br><sub>Hospital Management System</sub></td>
 <td>Full Stack</td>
 <td><code>ASP.NET Core 9</code> <code>React 19</code> <code>MySQL</code> <code>JWT</code></td>
 </tr>
 <tr>
-<td align="center">02</td>
+<td align="center">03</td>
 <td><strong>🍽️ Taste Haven RMS</strong><br><sub>Restaurant Management System</sub></td>
 <td>Java</td>
 <td><code>Java Swing</code> <code>MySQL</code> <code>JDBC</code></td>
 </tr>
 <tr>
-<td align="center">03</td>
+<td align="center">04</td>
 <td><strong>🎭 Smart Face Attendance</strong><br><sub>Face Recognition Attendance</sub></td>
 <td>Python</td>
 <td><code>Django</code> <code>OpenCV</code> <code>SQLite</code></td>
 </tr>
 <tr>
-<td align="center">04</td>
+<td align="center">05</td>
 <td><strong>💼 Payroll Management</strong><br><sub>Employee Payroll Platform</sub></td>
 <td>Python</td>
 <td><code>Django</code> <code>SQLite</code> <code>HTML/CSS</code></td>
 </tr>
 <tr>
-<td align="center">05</td>
+<td align="center">06</td>
 <td><strong>🛒 ShopSphere</strong><br><sub>E-Commerce Platform</sub></td>
 <td>Full Stack</td>
 <td><code>ASP.NET Core</code> <code>React</code> <code>SQL Server</code></td>
 </tr>
 <tr>
-<td align="center">06</td>
+<td align="center">07</td>
 <td><strong>🎓 CCAMS</strong><br><sub>Campus Management System</sub></td>
 <td>Java</td>
 <td><code>Java</code> <code>NetBeans</code> <code>MySQL</code></td>
 </tr>
 <tr>
-<td align="center">07</td>
+<td align="center">08</td>
 <td><strong>🏦 Banking Management</strong><br><sub>Banking System</sub></td>
 <td>Java</td>
 <td><code>Java</code> <code>MySQL</code> <code>JDBC</code></td>
 </tr>
 <tr>
-<td align="center">08</td>
+<td align="center">09</td>
 <td><strong>📊 SA Employment Analysis</strong><br><sub>Data Analysis Project</sub></td>
 <td>Data Analysis</td>
 <td><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code></td>
 </tr>
 <tr>
-<td align="center">09</td>
+<td align="center">10</td>
 <td><strong>✅ Task Management System</strong><br><sub>Task Tracker</sub></td>
 <td>Full Stack</td>
 <td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
 </tr>
 <tr>
-<td align="center">10</td>
+<td align="center">11</td>
 <td><strong>👨‍🎓 Student Management</strong><br><sub>Student Records System</sub></td>
 <td>Java</td>
 <td><code>Java</code> <code>MySQL</code> <code>JDBC</code></td>
 </tr>
 <tr>
-<td align="center">11</td>
+<td align="center">12</td>
 <td><strong>📡 Tracker Services</strong><br><sub>Service Tracking System</sub></td>
 <td>Full Stack</td>
 <td><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></td>
 </tr>
 <tr>
-<td align="center">12</td>
+<td align="center">13</td>
 <td><strong>🏛️ Gert Sibande Municipality</strong><br><sub>Municipal Services System</sub></td>
 <td>Full Stack</td>
 <td><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></td>
