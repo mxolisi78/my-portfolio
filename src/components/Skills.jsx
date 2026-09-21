@@ -47,6 +47,7 @@ const Skills = () => {
               <span className="skill-item">React</span>
               <span className="skill-item">Django</span>
               <span className="skill-item">ASP.NET Core</span>
+              <span className="skill-item">Django REST Framework</span>
               <span className="skill-item">HTML</span>
               <span className="skill-item">CSS</span>
             </div>
@@ -63,8 +64,10 @@ const Skills = () => {
             </div>
             <div className="skills-list">
               <span className="skill-item">MySQL</span>
+              <span className="skill-item">PostgreSQL</span>
               <span className="skill-item">SQL Server</span>
               <span className="skill-item">SQLite</span>
+              <span className="skill-item">Redis</span>
               <span className="skill-item">JDBC</span>
             </div>
           </div>
@@ -87,8 +90,27 @@ const Skills = () => {
             </div>
           </div>
 
-          {/* Development Tools */}
+          {/* Real-Time & Deployment */}
           <div className="skills-category" data-aos="fade-up" data-aos-delay="500">
+            <div className="skills-category-header">
+              <div className="skills-icon">⚡</div>
+              <div>
+                <h3>Real-Time &amp; Deployment</h3>
+                <p>Real-time systems and production deployment</p>
+              </div>
+            </div>
+            <div className="skills-list">
+              <span className="skill-item">Django Channels</span>
+              <span className="skill-item">WebSockets</span>
+              <span className="skill-item">ASGI</span>
+              <span className="skill-item">Docker</span>
+              <span className="skill-item">GitHub Actions</span>
+              <span className="skill-item">Render</span>
+            </div>
+          </div>
+
+          {/* Development Tools */}
+          <div className="skills-category" data-aos="fade-up" data-aos-delay="600">
             <div className="skills-category-header">
               <div className="skills-icon">🛠️</div>
               <div>
@@ -102,11 +124,12 @@ const Skills = () => {
               <span className="skill-item">NetBeans</span>
               <span className="skill-item">Visual Studio</span>
               <span className="skill-item">VS Code</span>
+              <span className="skill-item">Postman</span>
             </div>
           </div>
 
           {/* Computer Vision */}
-          <div className="skills-category" data-aos="fade-up" data-aos-delay="600">
+          <div className="skills-category" data-aos="fade-up" data-aos-delay="700">
             <div className="skills-category-header">
               <div className="skills-icon">👁️</div>
               <div>
