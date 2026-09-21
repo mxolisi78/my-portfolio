@@ -8,21 +8,20 @@ import About from './components/About';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Education from './components/Education';
+import Certifications from './components/Certifications';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import Certifications from './components/Certifications';
-
 
 function App() {
   return (
     <div className="portfolio">
       <Navbar />
-      <Hero />
+      <Hero /> 
       <About />
       <Skills />
       <Projects />
       <Education />
-      <Certifications />
+       <Certifications /> 
       <Contact />
       <Footer />
     </div>

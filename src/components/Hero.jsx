@@ -10,17 +10,19 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content" data-aos="fade-right">
           <p className="hero-greeting">Hello, I'm</p>
-          <h1>Mxolisi <span>Maseko</span></h1>
+          <h1>
+            Mxolisi <span>Maseko</span>
+          </h1>
           <h2>ICT Applications Developer</h2>
           <p className="hero-description">
-  I build practical software solutions that solve real-world problems.
-  My experience spans full-stack web development, real-time systems,
-  desktop applications, database systems, and data analysis — with
-  projects like a live Real-Time Social Platform, a Hospital Management
-  System, and a Restaurant Management System.
-</p>
+            I build practical software solutions that solve real-world
+            problems. My experience spans full-stack web development,
+            real-time systems, desktop applications, database systems,
+            and data analysis — with projects like a live Real-Time
+            Social Platform, a Hospital Management System, and a
+            Restaurant Management System.
+          </p>
 
-          {/* Technologies */}
           <div className="hero-tech">
             <span>Java</span>
             <span>Python</span>
@@ -30,7 +32,6 @@ const Hero = () => {
             <span>SQL</span>
           </div>
 
-          {/* Hero Buttons */}
           <div className="hero-buttons">
             <a href="#projects" className="btn primary-btn">
               View My Projects
@@ -48,7 +49,6 @@ const Hero = () => {
             </a>
           </div>
 
-          {/* Social Links */}
           <div className="social-links">
             <a
               href="https://github.com/mxolisi78"
@@ -58,7 +58,7 @@ const Hero = () => {
               GitHub ↗
             </a>
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/mxolisi-maseko"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -67,7 +67,6 @@ const Hero = () => {
           </div>
         </div>
 
-        {/* Profile Image */}
         <div className="hero-image-container" data-aos="fade-left">
           <div className="hero-image-border">
             <img
