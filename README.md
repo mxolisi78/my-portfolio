@@ -19,7 +19,7 @@
 
 A modern, responsive portfolio website built with **React** and **Vite**, designed to showcase my work as an ICT Applications Developer. It features a professional dark theme, smooth scroll animations, project filtering, and industry-recognized certifications — built to give recruiters and employers instant access to my skills, projects, and credentials.
 
-> **Live Site:** [mxolisi-maseko-portfolio.netlify.app](https://mxolisi-maseko-portfolio.netlify.app)
+> **Live Site:** https://my-portfolio-mxolisi78.vercel.app/
 
 ---
 
