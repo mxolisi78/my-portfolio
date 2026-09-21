@@ -13,10 +13,12 @@ const Hero = () => {
           <h1>Mxolisi <span>Maseko</span></h1>
           <h2>ICT Applications Developer</h2>
           <p className="hero-description">
-            I build practical software solutions that solve real-world
-            problems. My experience spans full-stack web development,
-            desktop applications, database systems, and data analysis.
-          </p>
+  I build practical software solutions that solve real-world problems.
+  My experience spans full-stack web development, real-time systems,
+  desktop applications, database systems, and data analysis — with
+  projects like a live Real-Time Social Platform, a Hospital Management
+  System, and a Restaurant Management System.
+</p>
 
           {/* Technologies */}
           <div className="hero-tech">

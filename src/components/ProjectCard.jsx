@@ -3,9 +3,8 @@
 import React from 'react';
 
 const ProjectCard = ({ project, index }) => {
-  const { title, status, description, technologies, github } = project;
-  
-  // Format number with leading zero
+  const { title, status, description, technologies, github, liveDemo } = project;
+
   const number = String(index + 1).padStart(2, '0');
 
   return (
@@ -27,6 +26,16 @@ const ProjectCard = ({ project, index }) => {
       </div>
 
       <div className="project-actions">
+        {liveDemo && (
+          <a
+            href={liveDemo}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="project-link live-link"
+          >
+            Live Demo →
+          </a>
+        )}
         <a
           href={github}
           target="_blank"

@@ -28,6 +28,17 @@ const About = () => {
               ASP.NET Core, and SQL.
             </p>
             <p>
+  My portfolio includes large-scale projects such as a
+  <strong> Real-Time Social Platform</strong> built with Django
+  Channels and WebSockets, a
+  <strong> Hospital Management System</strong> built with
+  ASP.NET Core and React, and a
+  <strong> Restaurant Management System</strong> built in
+  Java Swing with MySQL — all featuring multi-role
+  authentication, full CRUD operations, and real-time
+  dashboards.
+</p>
+            <p>
               I am particularly interested in full-stack development,
               database-driven applications, automation, and building
               systems that are useful, reliable, and easy to use.
