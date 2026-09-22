@@ -120,73 +120,97 @@ A modern, responsive portfolio website built with **React** and **Vite**, design
 </tr>
 <tr>
 <td align="center">02</td>
+<td><strong>⚡ ComplianceGuard</strong><br><sub>Multi-Agent AI System</sub></td>
+<td>AI</td>
+<td><code>LangGraph</code> <code>Multi-Agent</code> <code>RAG</code> <code>Django</code> <code>Groq</code></td>
+</tr>
+<tr>
+<td align="center">03</td>
+<td><strong>🤖 DocuChat</strong><br><sub>RAG Document Assistant</sub></td>
+<td>AI</td>
+<td><code>RAG</code> <code>ChromaDB</code> <code>Django</code> <code>Groq</code></td>
+</tr>
+<tr>
+<td align="center">04</td>
+<td><strong>🔐 CyberSecurity Dashboard</strong><br><sub>ML Anomaly Detection</sub></td>
+<td>Machine Learning</td>
+<td><code>Django</code> <code>DRF</code> <code>scikit-learn</code> <code>Docker</code> <code>pytest</code></td>
+</tr>
+<tr>
+<td align="center">05</td>
 <td><strong>🏥 MediCare Pro</strong><br><sub>Hospital Management System</sub></td>
 <td>Full Stack</td>
 <td><code>ASP.NET Core 9</code> <code>React 19</code> <code>MySQL</code> <code>JWT</code></td>
 </tr>
 <tr>
-<td align="center">03</td>
-<td><strong>🍽️ Taste Haven RMS</strong><br><sub>Restaurant Management System</sub></td>
+<td align="center">06</td>
+<td><strong>🍽️ Taste Haven RMS</strong><br><sub>Restaurant Management</sub></td>
 <td>Java</td>
 <td><code>Java Swing</code> <code>MySQL</code> <code>JDBC</code></td>
 </tr>
 <tr>
-<td align="center">04</td>
-<td><strong>🎭 Smart Face Attendance</strong><br><sub>Face Recognition Attendance</sub></td>
+<td align="center">07</td>
+<td><strong>🧠 Employee Attrition ML</strong><br><sub>ML Prediction App</sub></td>
+<td>Machine Learning</td>
+<td><code>scikit-learn</code> <code>SMOTE</code> <code>Django</code></td>
+</tr>
+<tr>
+<td align="center">08</td>
+<td><strong>🎭 Smart Face Attendance</strong><br><sub>Face Recognition</sub></td>
 <td>Python</td>
 <td><code>Django</code> <code>OpenCV</code> <code>SQLite</code></td>
 </tr>
 <tr>
-<td align="center">05</td>
-<td><strong>💼 Payroll Management</strong><br><sub>Employee Payroll Platform</sub></td>
+<td align="center">09</td>
+<td><strong>💼 Payroll Management</strong><br><sub>Payroll Platform</sub></td>
 <td>Python</td>
-<td><code>Django</code> <code>SQLite</code> <code>HTML/CSS</code></td>
+<td><code>Django</code> <code>SQLite</code></td>
 </tr>
 <tr>
-<td align="center">06</td>
+<td align="center">10</td>
 <td><strong>🛒 ShopSphere</strong><br><sub>E-Commerce Platform</sub></td>
 <td>Full Stack</td>
 <td><code>ASP.NET Core</code> <code>React</code> <code>SQL Server</code></td>
 </tr>
 <tr>
-<td align="center">07</td>
-<td><strong>🎓 CCAMS</strong><br><sub>Campus Management System</sub></td>
-<td>Java</td>
-<td><code>Java</code> <code>NetBeans</code> <code>MySQL</code></td>
-</tr>
-<tr>
-<td align="center">08</td>
-<td><strong>🏦 Banking Management</strong><br><sub>Banking System</sub></td>
-<td>Java</td>
-<td><code>Java</code> <code>MySQL</code> <code>JDBC</code></td>
-</tr>
-<tr>
-<td align="center">09</td>
-<td><strong>📊 SA Employment Analysis</strong><br><sub>Data Analysis Project</sub></td>
-<td>Data Analysis</td>
-<td><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code></td>
-</tr>
-<tr>
-<td align="center">10</td>
-<td><strong>✅ Task Management System</strong><br><sub>Task Tracker</sub></td>
-<td>Full Stack</td>
-<td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
-</tr>
-<tr>
 <td align="center">11</td>
-<td><strong>👨‍🎓 Student Management</strong><br><sub>Student Records System</sub></td>
+<td><strong>🎓 CCAMS</strong><br><sub>Campus Management</sub></td>
 <td>Java</td>
 <td><code>Java</code> <code>MySQL</code> <code>JDBC</code></td>
 </tr>
 <tr>
 <td align="center">12</td>
-<td><strong>📡 Tracker Services</strong><br><sub>Service Tracking System</sub></td>
+<td><strong>🏦 Banking Management</strong><br><sub>Banking System</sub></td>
+<td>Java</td>
+<td><code>Java</code> <code>MySQL</code></td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td><strong>📊 SA Employment Analysis</strong><br><sub>Data Analysis</sub></td>
+<td>Data Analysis</td>
+<td><code>Python</code> <code>Pandas</code> <code>NumPy</code></td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td><strong>✅ Task Management</strong><br><sub>Task Tracker</sub></td>
+<td>Full Stack</td>
+<td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td><strong>👨‍🎓 Student Management</strong><br><sub>Student Records</sub></td>
+<td>Java</td>
+<td><code>Java</code> <code>MySQL</code></td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td><strong>📡 Tracker Services</strong><br><sub>Service Tracking</sub></td>
 <td>Full Stack</td>
 <td><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></td>
 </tr>
 <tr>
-<td align="center">13</td>
-<td><strong>🏛️ Gert Sibande Municipality</strong><br><sub>Municipal Services System</sub></td>
+<td align="center">17</td>
+<td><strong>🏛️ Gert Sibande Municipality</strong><br><sub>Municipal Services</sub></td>
 <td>Full Stack</td>
 <td><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></td>
 </tr>

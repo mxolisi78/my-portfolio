@@ -25,6 +25,71 @@ const projects = [
   },
   {
     id: 2,
+    title: "ComplianceGuard - Multi-Agent AI Compliance System",
+    status: "Complete",
+    category: "AI",
+    description:
+      "A multi-agent AI system with human-in-the-loop approval built with LangGraph, Django, ChromaDB, and Groq. A supervisor classifier routes vendor agreements to domain specialists, each performing RAG-based analysis against seeded compliance rules. Findings are aggregated into a report, and the workflow pauses for human approval before completion. Features SQLite checkpointing for stateful, resumable execution.",
+    technologies: [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "Django",
+      "ChromaDB",
+      "Sentence-Transformers",
+      "Groq",
+      "RAG",
+      "Multi-Agent",
+      "Human-in-the-Loop"
+    ],
+    github: "https://github.com/mxolisi78/ComplianceGuard",
+    liveDemo: null
+  },
+  {
+    id: 3,
+    title: "DocuChat - RAG Document Assistant",
+    status: "Complete",
+    category: "AI",
+    description:
+      "A retrieval-augmented generation (RAG) web app that lets users upload PDF, DOCX, TXT, or MD files and chat with them. Uses local embeddings (sentence-transformers) and ChromaDB for retrieval, paired with Groq's LLM for grounded answers with inline citations. Refuses to answer when the context doesn't support it — eliminating hallucination.",
+    technologies: [
+      "Python",
+      "Django",
+      "ChromaDB",
+      "Sentence-Transformers",
+      "Groq",
+      "RAG",
+      "Vector Databases",
+      "LLM APIs"
+    ],
+    github: "https://github.com/mxolisi78/DocuChat",
+    liveDemo: null
+  },
+  {
+    id: 4,
+    title: "CyberSecurity Dashboard - ML Anomaly Detection",
+    status: "Complete",
+    category: "Machine Learning",
+    description:
+      "A Django + DRF + scikit-learn cybersecurity monitoring dashboard with 7 domain models (Assets, Threats, Vulnerabilities, Incidents, Logs, ML Models, Predictions). Features a full REST API with filtering/search/pagination, an ML pipeline with IsolationForest anomaly detection and RandomForest intrusion classifier (96% accuracy / 0.966 F1), a dark dashboard UI with Chart.js visualizations, Docker-ready setup, and 48 pytest tests.",
+    technologies: [
+      "Python",
+      "Django",
+      "Django REST Framework",
+      "scikit-learn",
+      "IsolationForest",
+      "RandomForest",
+      "Chart.js",
+      "PostgreSQL",
+      "Docker",
+      "pytest",
+      "GitHub Actions"
+    ],
+    github: "https://github.com/mxolisi78/CyberSecurityDashboard",
+    liveDemo: null
+  },
+  {
+    id: 5,
     title: "MediCare Pro - Hospital Management System",
     status: "Full Stack",
     category: "Full Stack",
@@ -44,7 +109,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 3,
+    id: 6,
     title: "Taste Haven RMS - Restaurant Management System",
     status: "Java Application",
     category: "Java",
@@ -55,18 +120,38 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 4,
+    id: 7,
+    title: "Employee Attrition Prediction System",
+    status: "Complete",
+    category: "Machine Learning",
+    description:
+      "An end-to-end ML web application that predicts employee attrition using the IBM HR Analytics dataset (1,470 rows, 35 features). Compares 5 models with SMOTE oversampling, chooses Logistic Regression + SMOTE by F1 score, and serves predictions via a Django web interface with 30-input form and probability output.",
+    technologies: [
+      "Python",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Django",
+      "SMOTE",
+      "Jupyter",
+      "Matplotlib"
+    ],
+    github: "https://github.com/mxolisi78/EmployeeAttritionML",
+    liveDemo: null
+  },
+  {
+    id: 8,
     title: "Smart Face Attendance System",
     status: "In Development",
     category: "Python",
     description:
-      "A Django-based employee attendance management system designed to automate attendance using face detection technology.",
+      "A Django-based employee attendance management system designed to automate attendance using face detection technology. Implements and evaluates multiple face-detection approaches (Haar Cascade, DNN, MediaPipe) with fallback mechanisms for robustness.",
     technologies: ["Django", "Python", "OpenCV", "SQLite"],
     github: "https://github.com/mxolisi78/smart-face-attendance-system",
     liveDemo: null
   },
   {
-    id: 5,
+    id: 9,
     title: "Payroll Management System",
     status: "Completed",
     category: "Python",
@@ -77,7 +162,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 6,
+    id: 10,
     title: "ShopSphere",
     status: "Full Stack",
     category: "Full Stack",
@@ -88,7 +173,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 7,
+    id: 11,
     title: "CCAMS",
     status: "Java Application",
     category: "Java",
@@ -99,7 +184,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 8,
+    id: 12,
     title: "Banking Management System",
     status: "Completed",
     category: "Java",
@@ -110,7 +195,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 9,
+    id: 13,
     title: "South Africa Employment Analysis",
     status: "Data Analysis",
     category: "Data Analysis",
@@ -121,7 +206,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 10,
+    id: 14,
     title: "Task Management System",
     status: "Web Application",
     category: "Full Stack",
@@ -132,7 +217,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 11,
+    id: 15,
     title: "Student Management System",
     status: "Web Application",
     category: "Java",
@@ -143,7 +228,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 12,
+    id: 16,
     title: "Tracker Services",
     status: "Web Application",
     category: "Full Stack",
@@ -154,7 +239,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 13,
+    id: 17,
     title: "Gert Sibande Municipality System",
     status: "Web Application",
     category: "Full Stack",

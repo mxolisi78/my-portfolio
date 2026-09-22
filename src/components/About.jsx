@@ -30,16 +30,18 @@ const About = () => {
             </p>
 
             <p>
-              My portfolio includes large-scale projects such as a
-              <strong> Real-Time Social Platform</strong> built with
-              Django Channels and WebSockets, a
-              <strong> Hospital Management System</strong> built with
-              ASP.NET Core and React, and a
-              <strong> Restaurant Management System</strong> built in
-              Java Swing with MySQL — all featuring multi-role
-              authentication, full CRUD operations, and real-time
-              dashboards.
-            </p>
+  My portfolio spans{" "}
+  <strong>full-stack development</strong>,{" "}
+  <strong>agentic AI</strong>,{" "}
+  <strong>machine learning</strong>, and{" "}
+  <strong>real-time systems</strong>. Projects include a live
+  real-time social platform (Django Channels + WebSockets), a
+  multi-agent compliance system (LangGraph with human-in-the-loop),
+  a RAG document assistant (ChromaDB + LLM APIs), a cybersecurity
+  ML dashboard (scikit-learn with 48 tests), an enterprise hospital
+  management system (ASP.NET Core + React), and a restaurant
+  management system in Java Swing with MySQL.
+</p>
 
             <p>
               I am particularly interested in full-stack development,
