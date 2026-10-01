@@ -19,9 +19,10 @@ const ProjectCard = ({ project, index }) => {
         <p>{description}</p>
 
         <div className="project-tech">
-          {technologies && technologies.map((tech, idx) => (
-            <span key={idx}>{tech}</span>
-          ))}
+          {Array.isArray(technologies) &&
+            technologies.map((tech, idx) => (
+              <span key={idx}>{tech}</span>
+            ))}
         </div>
       </div>
 
@@ -36,14 +37,16 @@ const ProjectCard = ({ project, index }) => {
             Live Demo →
           </a>
         )}
-        <a
-          href={github}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="project-link"
-        >
-          GitHub →
-        </a>
+        {github && (
+          <a
+            href={github}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="project-link"
+          >
+            GitHub →
+          </a>
+        )}
       </div>
     </article>
   );

@@ -25,6 +25,28 @@ const projects = [
   },
   {
     id: 2,
+    title: "SentinelX - Security Operations Center Platform",
+    status: "Live",
+    category: "Full Stack",
+    description:
+      "A production-deployed full-stack Security Operations Center platform with Django, React, and a hybrid ML detection engine. Features JWT auth with three-tier RBAC, six detection rules plus an IsolationForest anomaly model, automatic incident creation, response playbook automation, Slack/email notifications, and a real-time WebSocket SOC dashboard with Grafana-style analytics.",
+    technologies: [
+      "Django 6",
+      "Django REST Framework",
+      "Django Channels",
+      "WebSockets",
+      "scikit-learn",
+      "React",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "Docker",
+      "Render"
+    ],
+    github: "https://github.com/mxolisi78/sentinelx",
+    liveDemo: "https://sentinelx-frontend-r3ck.onrender.com"
+  },
+  {
+    id: 3,
     title: "ComplianceGuard - Multi-Agent AI Compliance System",
     status: "Complete",
     category: "AI",
@@ -46,7 +68,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 3,
+    id: 4,
     title: "DocuChat - RAG Document Assistant",
     status: "Complete",
     category: "AI",
@@ -66,7 +88,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 4,
+    id: 5,
     title: "CyberSecurity Dashboard - ML Anomaly Detection",
     status: "Complete",
     category: "Machine Learning",
@@ -89,7 +111,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 5,
+    id: 6,
     title: "MediCare Pro - Hospital Management System",
     status: "Full Stack",
     category: "Full Stack",
@@ -109,7 +131,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 6,
+    id: 7,
     title: "Taste Haven RMS - Restaurant Management System",
     status: "Java Application",
     category: "Java",
@@ -120,7 +142,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 7,
+    id: 8,
     title: "Employee Attrition Prediction System",
     status: "Complete",
     category: "Machine Learning",
@@ -140,7 +162,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 8,
+    id: 9,
     title: "Smart Face Attendance System",
     status: "In Development",
     category: "Python",
@@ -151,7 +173,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 9,
+    id: 10,
     title: "Payroll Management System",
     status: "Completed",
     category: "Python",
@@ -162,7 +184,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 10,
+    id: 11,
     title: "ShopSphere",
     status: "Full Stack",
     category: "Full Stack",
@@ -173,7 +195,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 11,
+    id: 12,
     title: "CCAMS",
     status: "Java Application",
     category: "Java",
@@ -184,7 +206,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 12,
+    id: 13,
     title: "Banking Management System",
     status: "Completed",
     category: "Java",
@@ -195,7 +217,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 13,
+    id: 14,
     title: "South Africa Employment Analysis",
     status: "Data Analysis",
     category: "Data Analysis",
@@ -206,7 +228,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 14,
+    id: 15,
     title: "Task Management System",
     status: "Web Application",
     category: "Full Stack",
@@ -217,7 +239,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 15,
+    id: 16,
     title: "Student Management System",
     status: "Web Application",
     category: "Java",
@@ -228,7 +250,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 16,
+    id: 17,
     title: "Tracker Services",
     status: "Web Application",
     category: "Full Stack",
@@ -239,7 +261,7 @@ const projects = [
     liveDemo: null
   },
   {
-    id: 17,
+    id: 18,
     title: "Gert Sibande Municipality System",
     status: "Web Application",
     category: "Full Stack",

@@ -16,12 +16,12 @@ function App() {
   return (
     <div className="portfolio">
       <Navbar />
-      <Hero /> 
+      <Hero />
       <About />
       <Skills />
       <Projects />
       <Education />
-       <Certifications /> 
+      <Certifications />
       <Contact />
       <Footer />
     </div>
