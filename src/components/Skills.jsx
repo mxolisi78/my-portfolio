@@ -50,6 +50,7 @@ const Skills = () => {
               <span className="skill-item">Django REST Framework</span>
               <span className="skill-item">HTML</span>
               <span className="skill-item">CSS</span>
+              <span className="skill-item">Tailwind CSS</span>
             </div>
           </div>
 
@@ -87,6 +88,7 @@ const Skills = () => {
               <span className="skill-item">Matplotlib</span>
               <span className="skill-item">Excel</span>
               <span className="skill-item">Data Visualization</span>
+              <span className="skill-item">Recharts</span>
             </div>
           </div>
 
@@ -220,6 +222,26 @@ const Skills = () => {
     <span className="skill-item">GitHub Actions</span>
     <span className="skill-item">CI/CD</span>
     <span className="skill-item">Render</span>
+  </div>
+</div>
+
+{/* Security & SOC */}
+<div className="skills-category" data-aos="fade-up" data-aos-delay="1200">
+  <div className="skills-category-header">
+    <div className="skills-icon">🔐</div>
+    <div>
+      <h3>Security &amp; SOC</h3>
+      <p>Security operations and incident response</p>
+    </div>
+  </div>
+  <div className="skills-list">
+    <span className="skill-item">JWT Authentication</span>
+    <span className="skill-item">RBAC</span>
+    <span className="skill-item">Threat Intelligence</span>
+    <span className="skill-item">Incident Response</span>
+    <span className="skill-item">Playbook Automation</span>
+    <span className="skill-item">SOC</span>
+    <span className="skill-item">Anomaly Detection</span>
   </div>
 </div>
         </div>

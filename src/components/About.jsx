@@ -29,18 +29,20 @@ const About = () => {
               ASP.NET Core, and SQL.
             </p>
 
-            <p>
+           <p>
   My portfolio spans{" "}
   <strong>full-stack development</strong>,{" "}
   <strong>agentic AI</strong>,{" "}
   <strong>machine learning</strong>, and{" "}
   <strong>real-time systems</strong>. Projects include a live
   real-time social platform (Django Channels + WebSockets), a
-  multi-agent compliance system (LangGraph with human-in-the-loop),
-  a RAG document assistant (ChromaDB + LLM APIs), a cybersecurity
-  ML dashboard (scikit-learn with 48 tests), an enterprise hospital
-  management system (ASP.NET Core + React), and a restaurant
-  management system in Java Swing with MySQL.
+  production Security Operations Center platform (SentinelX —
+  Django + React + ML detection engine), a multi-agent compliance
+  system (LangGraph with human-in-the-loop), a RAG document
+  assistant (ChromaDB + LLM APIs), a cybersecurity ML dashboard
+  (scikit-learn with 48 tests), an enterprise hospital management
+  system (ASP.NET Core + React), and a restaurant management system
+  in Java Swing with MySQL.
 </p>
 
             <p>
